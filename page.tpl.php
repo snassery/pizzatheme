@@ -86,13 +86,13 @@
                 <!--slider-item content-->
                 <div style="float:left; padding:0 30px 0 0;"> 
                 <img class="masked" src=""
-                <img class="masked" src="<?php print base_path() . drupal_get_path('theme', 'corporateclean') ;?>/mockup/slide-1.jpg"/>
+                <img class="masked" src="<?php print base_path() . drupal_get_path('theme', 'corporateclean') ;?>/mockup/slide-1.png"/>
                 </div>
-                <h2>Sample product name</h2>
+                <h2>Brick Oven Pizza</h2>
                 <strong>General</strong><br/>
-                <em>Client name</em><br/>
+                <em></em><br/>
                 <br/>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+                Our pizza is halal and delicious. It is made crispy and cooked in a 400 degree oven. 
                 <div style="display:block; padding:30px 0 10px 0;"><a class="more" href="#">Tell me more</a></div>
                 <!--EOF:slider-item content-->
                 
@@ -110,11 +110,11 @@
                 <div style="float:right; padding:0 0 0 30px;">
                 <img class="masked" src="<?php print base_path() . drupal_get_path('theme', 'corporateclean') ;?>/mockup/slide-2.jpg"/>
                 </div>
-                <h2>Sample service name</h2>
+                <h2>What Customers have Said</h2>
                 <strong>General</strong><br/>
-                <em>Client name</em><br/>
+                <em></em><br/>
                 <br/>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This pizza joint is the best one I've ever been to. -Steve Shirripa (The Sopranos Actor)
                 <div style="display:block; padding:30px 0 10px 0;"><a class="more" href="#">Tell me more</a></div>
                 <!--EOF:slider-item content-->
                 
@@ -129,11 +129,10 @@
             	<div class="grid_12">
                 
                 <!--slider-item content-->
-                <h2>Sample product name</h2>
+                <h2>The Mayor Loves Us</h2>
                 <strong>General</strong><br/>
-                <em>Client name</em><br/>
-                <br/>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+                <em>Customer name: Mayor Booker</em><br/>
+                <br/>It is the best Pizza in New Jersey  - Cory Booker 
                 <div style="display:block; padding:30px 0 10px 0;"><a class="more" href="#">Tell me more</a></div>
                 <!--EOF:slider-item content-->
                 
@@ -292,7 +291,7 @@
     <!-- #credits -->   
     <div id="credits" class="container_12 clearfix">
         <div class="grid_12">
-        <p>Ported to Drupal by <a href="http://www.drupalizing.com">Drupalizing</a>, a Project of <a href="http://www.morethanthemes.com">More than (just) Themes</a>. Designed by <a href="http://www.kaolti.com/">Zsolt Kacso</a></p>
+        <p>Designed by Nassery Web Development</a></p>
         </div>
     </div>
     <!-- EOF: #credits -->
