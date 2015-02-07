@@ -78,45 +78,60 @@
     <div id="slideshow">
     
         <!--slider-item-->
-
-        <div class="slider-">
+        
+               <div class="slider-item">
             <div class="content container_12">
             	<div class="grid_12">
                 
                 <!--slider-item content-->
-                <div style="float:left; padding:0 30px 0 0;"> 
-             </div>
-                <h2>Brick Oven Pizza</h2>
-                <strong>General</strong><br/>
-                <em></em><br/>
-                <br/>
-                <img class="masked" src="<?php print base_path() . drupal_get_path('theme', 'corporateclean') ;?>/mockup/pizzaslide.jpg"/>
-               
-                Our pizza is halal and delicious. It is made crispy and cooked in a 400 degree oven. 
+                <img class="masked" src="<?php print base_path() . drupal_get_path('theme', 'corporateclean') ;?>/mockup/pizzaslidejpg"/>
+                <!--EOF:slider-item content-->
+                
+                <h2>Fireworks Pizza</h2>
+                <strong>General</strong><br/> 
+                 Our pizza is halal and delicious. It is made crispy and cooked in a 400 degree oven. 
+                
+ 
                 <div style="display:block; padding:30px 0 10px 0;"><a class="more" href="#">Tell me more</a></div>
                 <!--EOF:slider-item content-->
                 
-                </div>
+				</div>
+            </div>
+        </div>
+        <!--EOF:slider-item-->
+    
+    </div>
+                <!--EOF:slider-item content-->
+                
+				</div>
             </div>
         </div>
         <!--EOF:slider-item-->
         
         <!--slider-item-->
-        <div class="slider-item">
+        
+                <div class="slider-item">
             <div class="content container_12">
             	<div class="grid_12">
                 
-                
                 <!--slider-item content-->
-                <div style="float:right; padding:0 0 0 30px;">
                 <img class="masked" src="<?php print base_path() . drupal_get_path('theme', 'corporateclean') ;?>/mockup/slide-2.jpg"/>
-                </div>
+                <!--EOF:slider-item content-->
+                
                 <h2>What Customers have Said</h2>
                 <strong>General</strong><br/>
-                <em></em><br/>
-                <br/>
-This pizza joint is the best one I've ever been to. -Steve Shirripa (The Sopranos Actor)
+                <em>Customer name:Steve Shiripa</em><br/>
+                <br/>This pizza joint is the best one I've ever been to. -Steve Shirripa (The Sopranos Actor)
+ 
                 <div style="display:block; padding:30px 0 10px 0;"><a class="more" href="#">Tell me more</a></div>
+                <!--EOF:slider-item content-->
+                
+				</div>
+            </div>
+        </div>
+        <!--EOF:slider-item-->
+    
+    </div>
                 <!--EOF:slider-item content-->
                 
 				</div>
@@ -130,12 +145,17 @@ This pizza joint is the best one I've ever been to. -Steve Shirripa (The Soprano
             	<div class="grid_12">
                 
                 <!--slider-item content-->
+        <div class="slider-item">
+            <div class="content container_12">
+            	<div class="grid_12">
                 
-                <img class="masked" src="<?php print base_path() . drupal_get_path('theme', 'corporateclean') ;?>/mockup/booker.jpg"/>
-               
+                <!--slider-item content-->
+                <img class="masked" src="<?php print base_path() . drupal_get_path('theme', 'corporateclean') ;?>/mockup/corybooker.jpg"/>
+                <!--EOF:slider-item content-->
+                
                 <h2>The Mayor Loves Us</h2>
                 <strong>General</strong><br/>
-                <em>Customer name: Mayor Booker</em><br/>
+                <em>Customer name:Cory Bookere</em><br/>
                 <br/>It is the best Pizza in New Jersey  - Cory Booker 
                 <div style="display:block; padding:30px 0 10px 0;"><a class="more" href="#">Tell me more</a></div>
                 <!--EOF:slider-item content-->
@@ -143,6 +163,13 @@ This pizza joint is the best one I've ever been to. -Steve Shirripa (The Soprano
 				</div>
             </div>
         </div>
+        <!--EOF:slider-item-->
+    
+    </div>
+    <!-- EOF: #slideshow -->
+    
+    <!-- #slider-controls-wrapper -->
+ 
         <!--EOF:slider-item-->
         
         <!--slider-item-->
