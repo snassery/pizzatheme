@@ -85,13 +85,13 @@
                 
                 <!--slider-item content-->
                 <div style="float:left; padding:0 30px 0 0;"> 
-                <img class="masked" src=""
-                <img class="masked" src="<?php print base_path() . drupal_get_path('theme', 'corporateclean') ;?>/mockup/slide-1.png"/>
-                </div>
+             </div>
                 <h2>Brick Oven Pizza</h2>
                 <strong>General</strong><br/>
                 <em></em><br/>
                 <br/>
+                <img class="masked" src="<?php print base_path() . drupal_get_path('theme', 'corporateclean') ;?>/mockup/pizzaslide.jpg"/>
+               
                 Our pizza is halal and delicious. It is made crispy and cooked in a 400 degree oven. 
                 <div style="display:block; padding:30px 0 10px 0;"><a class="more" href="#">Tell me more</a></div>
                 <!--EOF:slider-item content-->
@@ -105,6 +105,7 @@
         <div class="slider-item">
             <div class="content container_12">
             	<div class="grid_12">
+                
                 
                 <!--slider-item content-->
                 <div style="float:right; padding:0 0 0 30px;">
@@ -129,6 +130,9 @@ This pizza joint is the best one I've ever been to. -Steve Shirripa (The Soprano
             	<div class="grid_12">
                 
                 <!--slider-item content-->
+                
+                <img class="masked" src="<?php print base_path() . drupal_get_path('theme', 'corporateclean') ;?>/mockup/booker.jpg"/>
+               
                 <h2>The Mayor Loves Us</h2>
                 <strong>General</strong><br/>
                 <em>Customer name: Mayor Booker</em><br/>
@@ -147,8 +151,16 @@ This pizza joint is the best one I've ever been to. -Steve Shirripa (The Soprano
             	<div class="grid_12">
                 
                 <!--slider-item content-->
-                <img class="masked" src="<?php print base_path() . drupal_get_path('theme', 'corporateclean') ;?>/mockup/slide-3.jpg"/>
+                <img class="masked" src="<?php print base_path() . drupal_get_path('theme', 'corporateclean') ;?>/mockup/nytimes.jpg"/>
                 <!--EOF:slider-item content-->
+                
+                <h2>The NYTimes Loves Us</h2>
+                <strong>General</strong><br/>
+                <em>Customer name:NY Times Magazine</em><br/>
+                <br/>We give Fireworks Five Stars. -New York Times 
+                <div style="display:block; padding:30px 0 10px 0;"><a class="more" href="#">Tell me more</a></div>
+                <!--EOF:slider-item content-->
+                
 				</div>
             </div>
         </div>
